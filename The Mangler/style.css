@@ -1,0 +1,37 @@
+@import 'https://fonts.googleapis.com/css?family=Press+Start+2P';
+
+canvas {
+    border:1px solid white;
+    background-color: black;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    border-radius: 10px;
+}
+body {
+    background-color: black;
+}
+
+#title {
+    text-align: center;
+    width: 800px;
+    color: black;
+    background-color: #00e6ff;
+    margin: auto;
+    border-radius: 100px;
+    font-size: 30px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #00e6ff;
+    color: black;
+    bottom: 0;
+    top: 0;
+    width: 60%;
+    border-radius: 100px;
+    margin: auto;
+}
